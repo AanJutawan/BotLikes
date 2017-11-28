@@ -11,7 +11,7 @@ cl.loginResult()
 
 ki = kk = kc = cl 
 
-print "login success"
+print "A̴҉͜͏̨̨̀҉̷̀͘͞à̷̵̢͞ń̶̴̢̡̛̀͟͟͠͏̶̸̛̛͘͜͟͞͞ ̀͢͟J̷̶̧̨́̕͟͢͢͢͡͠ut̨̛͘͏̢͘ą̸̸̴̵̴̷̨̧̢̛̛́͘̕͢͡͠͝ẁ̷̸̶̵̢̨̧͢͡a̷̸̢̨̡̕͝ǹ̴̶̶̵̨͘͢͜͝͞"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 KAC=[cl,ki,kk,kc]
@@ -75,11 +75,11 @@ def autolike():
             cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"Auto Like By:Aan Jutawan\n\n» Youtube.com/c/Aan Jutawan")
             #-----------------------------[JANGAN DIEDIT]-----------------------------#
             cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"Auto Like By:Aan Jutawan\n\n» Youtube.com/c/Aan Jutawan")
-            print "Like"
+            print "Like A̴҉͜͏̨̨̀҉̷̀͘͞à̷̵̢͞ń̶̴̢̡̛̀͟͟͠͏̶̸̛̛͘͜͟͞͞ ̀͢͟J̷̶̧̨́̕͟͢͢͢͡͠ut̨̛͘͏̢͘ą̸̸̴̵̴̷̨̧̢̛̛́͘̕͢͡͠͝ẁ̷̸̶̵̢̨̧͢͡a̷̸̢̨̡̕͝ǹ̴̶̶̵̨͘͢͜͝͞"
           except:
             pass
         else:
-            print "Already Liked"
+            print "Already Liked A̴҉͜͏̨̨̀҉̷̀͘͞à̷̵̢͞ń̶̴̢̡̛̀͟͟͠͏̶̸̛̛͘͜͟͞͞ ̀͢͟J̷̶̧̨́̕͟͢͢͢͡͠ut̨̛͘͏̢͘ą̸̸̴̵̴̷̨̧̢̛̛́͘̕͢͡͠͝ẁ̷̸̶̵̢̨̧͢͡a̷̸̢̨̡̕͝ǹ̴̶̶̵̨͘͢͜͝͞"
      time.sleep(500)
 thread2 = threading.Thread(target=autolike)
 thread2.daemon = True
