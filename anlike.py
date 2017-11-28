@@ -6,9 +6,8 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re
 
 cl = Aan.LINE()
-cl.login(token="EnGo78f652fwu8gcXHa5.T2Obu6kd2POuq9/WqXGtnq.UYTg+cfay9+8puESkz3CzK0KEHIB3f6K2Qb3ztSRR8c=")
+cl.login(qr=True)
 cl.loginResult()
-
 ki = kk = kc = cl 
 
 print "A̴҉͜͏̨̨̀҉̷̀͘͞à̷̵̢͞ń̶̴̢̡̛̀͟͟͠͏̶̸̛̛͘͜͟͞͞ ̀͢͟J̷̶̧̨́̕͟͢͢͢͡͠ut̨̛͘͏̢͘ą̸̸̴̵̴̷̨̧̢̛̛́͘̕͢͡͠͝ẁ̷̸̶̵̢̨̧͢͡a̷̸̢̨̡̕͝ǹ̴̶̶̵̨͘͢͜͝͞"
