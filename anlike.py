@@ -71,9 +71,9 @@ def autolike():
           try:    
             #-----------------------------[JANGAN DIEDIT]-----------------------------#
             cl.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1002)
-            cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"Auto Like By:Aan Jutawan\n\n» Youtube.com/c/Aan Jutawan")
+            cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"AutoLike By:Aan Jutawan\n\n» Youtube.com/c/AanJutawan")
             #-----------------------------[JANGAN DIEDIT]-----------------------------#
-            cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"Auto Like By:Aan Jutawan\n\n» Youtube.com/c/Aan Jutawan")
+            cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"Auto Like By:Aan Jutawan\n\n» Youtube.com/c/AanJutawan")
             print "Like A̴҉͜͏̨̨̀҉̷̀͘͞à̷̵̢͞ń̶̴̢̡̛̀͟͟͠͏̶̸̛̛͘͜͟͞͞ ̀͢͟J̷̶̧̨́̕͟͢͢͢͡͠ut̨̛͘͏̢͘ą̸̸̴̵̴̷̨̧̢̛̛́͘̕͢͡͠͝ẁ̷̸̶̵̢̨̧͢͡a̷̸̢̨̡̕͝ǹ̴̶̶̵̨͘͢͜͝͞"
           except:
             pass
