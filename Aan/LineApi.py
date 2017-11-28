@@ -311,7 +311,7 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("\n\nBotLike By Syams255 aka ????\nCopyright By Syams255 aka ????\n\n\n\n\n")
+      print("Bot like By: A̵̴̴̶̵̢̡̛̛̕͝͠͏̴̡a̵̡̢̧͟͟͢͝͠͞͞͠ǹ ̡J̵̢̢̡̛́͢ù̴̶̴̶̵̷̴̵̧̧̢́͢͟͢͡͞͞͏ţ҉̨͝a͏̴̸̶͜w̛̛͘à̡̧̧͘͢͟͠͝͝ń̴̶̴̛͡͡͝͠͏̷͘͡")
       print("mid -> " + prof.mid)
       print("name -> " + prof.displayName)
       print("authToken -> " + self.authToken)
